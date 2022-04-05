@@ -1,0 +1,3 @@
+# pythontraining
+
+i am readme
